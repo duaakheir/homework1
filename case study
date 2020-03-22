@@ -1,0 +1,94 @@
+# homework1
+# TITLE FinTech Case Study ; Digital Reasoning
+ 
+## Overview and Origin
+ 
+* Name of company
+Digital Reasoning.
+
+* When was the company incorporated?
+Digital Reasoning was founded in 2000. Digital Reasoning's headquarters is located in Franklin, Tennessee, USA.
+
+* Who are the founders of the company?
+Tim Estes, is the founder of Digital Reasoning who launched the company with the help of a professor while a senior at the University of Virginia.
+
+* How did the idea for the company (or project) come about?
+Digital Reasoning develops an AI-based software that provides communication analytics solutions for financial and healthcare organizations. Estes started the company to make what is called cognitive computing a commercial reality. He thought that all software would eventually teach itself. Three years later the Pentagon came knocking on his door with several small projects in hand.
+ 
+* How is the company funded? How much funding have they received?
+Six years after the foundation in 2010, it received funding from In-Q-Tel, the venture capital firm of the Central Intelligence Agency.
+In 2014, the firm received US$750,000 from the Tennessee Angel Fund of TNInvestco, a US$200 million fund from the State of Tennessee. It also received US$24 million from Credit Suisse Asset Management's NEXT Investors as well as Goldman Sachs. Other investors include the Partnership for New York City and the Nashville Capital Network. 
+In March 2018, the firm received US$30 million in funding led by BNP Paribas and joined by Barclays and Square Capital. Previous investors Goldman Sachs, Nasdaq, Lemhi Ventures, HCA, and the Partnership Fund for New York City also joined the round. 
+In February 2019, Macquarie Group invested an undisclosed amount in Digital Reasoning. The companies stated plans to partner together to explore new ways to apply Digital Reasoning's technology to the finance industry. 
+ 
+## Business Activities:
+* What specific financial problem is the company or project trying to solve?
+The aim is to predict fraud before it occurs. Its machine-learning software can extract meaning from everyday communications and is used by top financial firms to screen employees' e-mail and instant messages for misconduct and by Nasdaq to watch out for possible market manipulation.
+ 
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+Digital Reasoning presented its Synthesys software to the United States Army in 2002. They signed a contract with the National Ground Intelligence Center, a subsidiary of the United States Army Intelligence and Security Command, in 2004. Synthesys was used to track enemies in the War in Afghanistan from 2004 onwards. The firm has sold its Synthesys software to banks or hedge funds including UBS and Point72 Asset Management. Financial institutions use Synthesys to scan internal e-mails within a given company in search of unfamiliar patterns between employees, in terms of word-specific content, frequency and interpersonal connections.
+Digital Reasoning had spent a decade behind the veil of government secrecy, in 2012 Estes decided it was time to expand into an industry with an appetite for intelligence as voracious as any military’s: Wall Street.
+Its market includes Goldman Sachs, BNP, Nasdaq and others.
+
+What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+Digital Reasoning goal is to analyze every shred of digital traffic coursing through their networks to hunt down and expose potential rogue traders, market manipulators. This sets them apart from other market competitors like Basis Technology.
+ 
+* Which technologies are they currently using, and how are they implementing them?
+Digital Reasoning Stop rule-breaking before it happens cognitive computing software, Synthesys, does this by emulating human learning processes and applying them to the data it evaluates, putting it into context.
+ 
+## Landscape:
+ 
+* What domain of the financial industry is the company in?
+Enterprise financial software, i.e IT Services. This section helps financial institutions fight off fraud security issues and cybercrimes.
+ 
+* What have been the major trends and innovations of this domain over the last 5-10 years?.
+
+ Financing is being embedded everywhere, this changes where deposits are held, how salaries get paid, and where asset recourse lies, etc. Embedding complex financial instruments as part of the feature set is only accelerating, with the rise of technologies like artificial intelligence. For example, as cars become driverless, many believe the insurance will no longer be a financial product that users purchase. Globally, nearly half the planet is unbanked or underbanked. Financial innovations like mobile banking are including people into the formal financial system, often for the first time. Today, there are over 250 mobile money deployments across the emerging markets. These models are unlocking the creation of entirely new products and services. For instance, companies like Zola Electric.
+* What are the other major companies in this domain?
+Basis Technology is Digital Reasoning's #1 competitor. Basis Technology was founded in Cambridge, Massachusetts in 1995. Basis Technology operates in the Application Software industry. Compared to Digital Reasoning, it generates $9.2M less revenue.
+Skytree is one of Digital Reasoning's top competitors. Skytree was founded in 2011 in San Jose, California. Skytree operates in the Systems Software industry. Skytree generates $15.4M less revenue than Digital Reasoning.
+Smartlogic is a top competitor of Digital Reasoning. Smartlogic was founded in 2001, and is headquartered in San Jose, California. Smartlogic is in the Systems Software industry. Smartlogic generates $5M less revenue vs. Digital Reasoning.
+## Results
+* What has been the business impact of this company so far?
+ Conduct Surveillance which uses award-winning AI to seamlessly analyze text and audio communications, break down analytics silos, and equip surveillance professionals to progress a human-centric approach to conduct risk mitigation.
+The latest edition of Conduct Surveillance delivers integrated alerts from all communications data to reveal the hidden behaviors, intentions and emotions behind Conduct risk.
+Also Precision insights enhance surveillance quality and efficiency, reducing total cost of ownership.
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+Digital Reasoning commissioned Forrester Consulting to conduct a Total Economic Impact™ (TEI) study examine its market impact and examine the potential return on investment (ROI) that enterprises may realize by deploying Conduct Surveillance. Forrester Consulting provides independent and objective research-based consulting, ranging in scope from a short strategy session to custom projects applying expert insight to specific business challenges. It was revealed that employing Digital Reasoning Conduct Surveillance at a certain company increased operational efficiency, resulting in savings for the surveillance and compliance team. It has significantly cut down on the number of false positive alerts that the team had to analyze by 50%. The firm also highlighted the ease of use of the tool, as well as the efficiency of the workflow processes embedded in the solution. As a result, the organization was able to restructure the surveillance and compliance teams, leading to cost savings. In addition, replacing its legacy e-surveillance tool with Digital Reasoning Conduct Surveillance led to reduced downtime and associated time savings. Also Improved business agility and saved time for the front office. The organization now has the improved ability to reduce the threat of IP and confidential information leaks with Digital Reasoning Conduct Surveillance, as it can work more on “In terms of compliance, with Digital Reasoning we are spending less time on false positives and more time on real issues.” 
+* How is your company performing relative to competitors in the same domain?
+As mentioned earlier Digital Reasoning generates more revenue among its competitors with a more expanded market share. Compared to Digital Reasoning, it generating $5M more revenue than Smartlogic , $9.2M more than its major competitor Basis, and $15.4M more than Skytree and the rest of competitors.
+In terms of performance, all the organizations that implemented its technology reported rapid better ability to discover compliance risks when compared with their previous environment. Firms benefited from the improved accuracy of the tool, noting that Digital Reasoning employs natural language processing for unstructured text, compared with other tools that do not have the ability to understand language and whose alerts are just based on keywords and lexicons. Digital Reasoning’s cognitive computing platform allows it to correlate insights from unstructured data with structured data sources, Thus enhancing the firms overall performance and data management.
+
+## Recommendations
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+ Include on its technology Conduct Surveillance an anonymous-activity-reporting technique which allows people to report questionable or suspectable behaviors they notice from others or speak up when being under threat of losing or forcefully sharing financial or non-financial critical and confidential information.
+* Why do you think that offering this product or service would benefit the company?
+It would assist in bringing light to many underground activities or abusive acts by exploiting insider or outsider information as many activities take place behind computers and way beyond technological reach. Thus, incorporating the human aspect with the technological breakthroughs often leads to tremendous results.
+ 
+* What technologies would this additional product or service utilize?
+With an encrypted link that guarantees the reporter’s privacy and  anonymity, such a proposal would not require exceptional or remarkably advanced technology as it can start with deploying smart phones, tablets and iPads, social media platforms or professionally implement it through employee access portals. However, it must ensure that the link or portal directs the employee or person to an encrypted platform that cannot track the reporter. 
+* Why are these technologies appropriate for your solution?
+The most important aspect about this service is the timely accessibility of reporters, as very often these suspicious acts occur instantly and call for a prompt response. In another situation the reporter might either be uncertain or too terrorized to share the incident or act and suddenly takes the decision to finally expose a sketchy behavior or suspicious party. Thus, a reporting portal crucially needs to be present for all contingent scenarios.
+ References:
+FORBES.COM
+wikipedia.org/wiki/Digital_Reasoning
+owler.com/company/digitalreasoning
+fortune.com/2014/08/14/digital-reasoning-cognitive-computing/
+https://digitalreasoning.com/blog/digital-reasoning-named-to-top-ten-most-innovative-ai-companies-by-fast-company/
+https://digitalreasoning.com/wp-content/uploads/2018/03/Forrester-TEI-Study.pdf
+https://www.forbes.com/sites/alexlazarow/2019/07/31/how-fintech-is-eating-the-world/#5d969646c2f3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	By: Duaa Kheir
